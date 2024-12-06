@@ -5,14 +5,14 @@
 - Kurssi: Ohjelmoinnin perusteet TT00CD77-3008
 - Harjoitustyön nimi: To do list app
 - Päivämäärä: 9.12.2024
-- linkki tehtävään githubissa https://github.com/HamzaAlshaheen/To-Do-List-App-
+- Linkki tehtävään githubissa https://github.com/HamzaAlshaheen/To-Do-List-App-
 
-## lyhyt kuvaus tehtävästä
+## Lyhyt kuvaus tehtävästä
 **To-Do-sovellus auttaa käyttäjää luomaan tehtäviä, tallentamaan niiden luomisajan ja hallitsemaan niitä helposti.**
 **Sovelluksen avulla voi lisätä, poistaa ja muokata olemassa olevia tehtäviä. Lisäksi käyttäjä voi etsiä tehtäviä tai merkitä niitä tehdyiksi.**
 **Sovellus on yksinkertainen, mutta sen avulla käyttäjä voi kätevästi luoda oman To-Do-listansa.**
 
-## toteutus ja oppimiskokemus
+## Toteutus ja oppimiskokemus
 **Aluksi mietin, mitä aihetta valitsisin, ja To-Do List -sovellus tuntui kiinnostavalta projektilta.** 
 **Toteutus tapahtui Visual Studio Code (VSC) -kehitysympäristössä ja Python-kielellä.**
 **Olen käyttänyt oppimateriaalina YouTubea, ChatGPT:tä ja w3schools.com-sivustoa.** 
@@ -25,7 +25,7 @@
  - Python
  - Html  
   
-## Oppimismateriaalit ja ersurssit 
+## Oppimismateriaalit ja resurssit 
 - Youtube 
 - ChatGPT
 - w3schools.com 
