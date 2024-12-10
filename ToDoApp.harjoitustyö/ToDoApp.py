@@ -1,7 +1,7 @@
 #Tekijä: Hamza Alshaheen 
 #Kurssi: Ohjelmoinnin perusteet TT00CD77-3008
 #Harjoitustyön nimi: To do list app  
-#Päivämäärä: 9.12.2024
+#Päivämäärä: 10.12.2024
 
 #________lyhyt kuvaus tehtävästä__________#
 
@@ -75,6 +75,8 @@ def searchTasks(tasks: list[str])-> None:
         print("Matching found")
         for index, task in enumerate(found_tasks, start=1):
             print(f"{index}. {task}")
+    else:
+        print("No matches were found.")
 
     #funktio markAsCompleted merkkaa tehtävä tehdyksi 
 def markAsCompleted(unmarkedTasks: list[str], completedTasks: list[str])-> None:
