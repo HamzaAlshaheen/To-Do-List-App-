@@ -23,7 +23,6 @@
  ## Käytetyt työkalut
  - Visual studio code
  - Python
- - Html  
   
 ## Oppimismateriaalit ja resurssit 
 - Youtube 
