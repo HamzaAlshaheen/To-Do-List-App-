@@ -4,7 +4,7 @@
 - Tekijä: Hamza Alshaheen
 - Kurssi: Ohjelmoinnin perusteet TT00CD77-3008
 - Harjoitustyön nimi: To do list app
-- Päivämäärä: 9.12.2024
+- Päivämäärä: 10.12.2024
 - Linkki tehtävään githubissa https://github.com/HamzaAlshaheen/To-Do-List-App-
 
 ## Lyhyt kuvaus tehtävästä
